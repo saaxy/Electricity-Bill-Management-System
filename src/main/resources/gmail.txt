@@ -1,0 +1,20 @@
+to set permanently
+
+[Environment]::SetEnvironmentVariable("EMAIL_ENABLED", "true", "User")
+[Environment]::SetEnvironmentVariable("SMTP_HOST", "smtp.gmail.com", "User")
+[Environment]::SetEnvironmentVariable("SMTP_PORT", "587", "User")
+[Environment]::SetEnvironmentVariable("SMTP_USERNAME", "tanaydoble2402@gmail.com", "User")
+[Environment]::SetEnvironmentVariable("SMTP_USERNAME", "sakshikhendad0811@gmail.com", "User")
+[Environment]::SetEnvironmentVariable("SMTP_PASSWORD", "kvbo lpql bjri dqir", "User")
+[Environment]::SetEnvironmentVariable("SMTP_PASSWORD", "wzrn wcci bofx nwqh", "User")
+[Environment]::SetEnvironmentVariable("SMTP_FROM", "Tanay Doble <tanaydoble2402@gmail.com>", "User")
+[Environment]::SetEnvironmentVariable("SMTP_FROM", "Tanay Doble <sakshikhendad0811@gmail.com>", "User")
+[Environment]::SetEnvironmentVariable("EMAIL_DEBUG", "true", "User")
+
+to get 
+
+[Environment]::GetEnvironmentVariable("EMAIL_ENABLED", "User")
+[Environment]::GetEnvironmentVariable("SMTP_HOST", "User")
+[Environment]::GetEnvironmentVariable("SMTP_PORT", "User")
+[Environment]::GetEnvironmentVariable("SMTP_USERNAME", "User")
+[Environment]::GetEnvironmentVariable("SMTP_FROM", "User")

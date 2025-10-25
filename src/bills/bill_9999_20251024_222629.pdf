@@ -1,0 +1,20 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Count 1 /Kids [3 0 R] >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >> endobj
+4 0 obj << /Length 490 >> stream
+BT /F1 12 Tf 50 750 Td 16 TL (ELECTRICITY BILL) Tj T* (=================) Tj T* () Tj T* (Consumer Details) Tj T* (Name: Test User) Tj T* (Email: test@example.com) Tj T* (Address: 123 Test Lane, Testville) Tj T* (Meter No.: MTR-000999) Tj T* (Consumer ID: 9999) Tj T* () Tj T* (Bill Summary for Consumer ID: 9999) Tj T* (Units Consumed: 123.45 units) Tj T* (Base Amount: ?456.78) Tj T* (Tax: ?0.00) Tj T* (Late Fee: ?0.00) Tj T* (Discount: ?0.00) Tj T* (Final Amount Payable: ?456.78) Tj ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000782 00000 n 
+trailer << /Root 1 0 R /Size 6 >>
+startxref
+852
+%%EOF
